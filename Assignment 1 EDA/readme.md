@@ -32,6 +32,8 @@ Data source: [Inside Airbnb](https://insideairbnb.com/get-the-data/)
 - Pandas
 - Matplotlib
 - Seaborn
+- Textblob
+- wordcloud
 
 ## Contributors
 - Reemaa Sajad Hyder
